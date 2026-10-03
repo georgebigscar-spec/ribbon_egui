@@ -1,0 +1,8 @@
+[workspace]
+resolver = "3"
+members = ["ribbon_egui", "demo"]
+
+[workspace.package]
+edition = "2024"
+license = "MIT"
+repository = "https://github.com/georgebigscar-spec/ribbon_egui"
